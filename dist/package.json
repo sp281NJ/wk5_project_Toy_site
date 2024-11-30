@@ -5,7 +5,10 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "parcel --open",
-      "build": "parcel build"
+      "build": "parcel build",
+      "scripts": {
+        "start": "json-server --watch db.json"
+      }
     },
     "keywords": [],
     "author": "",
