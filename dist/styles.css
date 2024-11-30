@@ -98,3 +98,19 @@ button:hover {
   margin: 3px;
 }
 
+p{
+  font-size: 22px;
+}
+h3{
+  padding: 1rem;
+  font-size: 22px;
+  background-color: #e04b52;
+  width: fit-content;
+  color: whitesmoke;
+  
+}
+
+h2{
+  font-size: 22px;
+
+}
